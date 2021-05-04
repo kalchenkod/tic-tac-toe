@@ -1,4 +1,4 @@
-# tic-tac-toe (addtional lab)
+# tic-tac-toe (additional lab)
 ## Kalchenko Danylo
 
 ### Description
@@ -7,5 +7,5 @@ Tic-tac-toe game console realisation.
 
 Possible players: 
 - human(h)
-- computer choosing randomly
-- computer choosing using binary tree
+- computer choosing randomly(cr)
+- computer choosing using binary tree(cb)
